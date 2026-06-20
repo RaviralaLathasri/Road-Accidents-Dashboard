@@ -2,8 +2,8 @@
 
 An interactive Power BI dashboard analyzing road accident patterns, fatality trends, and safety insights across Indian states (2017–2020).
 
-![Dashboard Preview](./assets/dashboard_preview1.png)
-![Dashboard Preview](./assets/dashboard_preview2.png)
+![Dashboard Preview](./assets/dashboard_preview1.jpeg)
+![Dashboard Preview](./assets/dashboard_preview2.jpeg)
 
 > 🔗 **[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTZmMDQ4ZDUtNTg1NC00NzliLWEzNTQtZDYyN2JmOGFhMGU2IiwidCI6ImRhZTA4MDk3LTgyNjAtNDk5Ni05MDY2LWZhZTExYmY3MWVhNiJ9)**
 
